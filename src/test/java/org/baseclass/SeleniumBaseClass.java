@@ -146,10 +146,8 @@ public class SeleniumBaseClass {
 				}
 				System.out.println("saikumar");
 				System.out.println("pushtoo");
-<<<<<<< HEAD
-				System.out.println("sai is pushed");
-=======
 				System.out.println("code pushed by saikumar");
->>>>>>> faaa9c16ab34e3ea9778f78bb5b0ff9f3a54b2d8
+				System.out.println("sai is pushed");
+
 	}
 }
